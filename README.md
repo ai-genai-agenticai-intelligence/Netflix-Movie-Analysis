@@ -1,4 +1,5 @@
 # Netflix Movie Analysis
+https://netflix-movie-analysis-app.streamlit.app
 
 Interactive Streamlit dashboard for exploring movie popularity, audience ratings, genres, and release-year patterns.
 
